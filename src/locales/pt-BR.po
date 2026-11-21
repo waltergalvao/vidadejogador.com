@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-11-20 21:06-0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: pt-BR\n"
+
+#. js-lingui-explicit-id
+#: src/app/[lang]/layout.tsx
+#: src/components/site-header.tsx
+msgid "common.gameName"
+msgstr "Vida de Jogador"
+
+#. js-lingui-explicit-id
+#: src/app/[lang]/privacy/page.tsx
+#: src/components/site-footer.tsx
+msgid "footer.privacy"
+msgstr "Política de privacidade"
+
+#. js-lingui-explicit-id
+#: src/app/[lang]/home-content.tsx
+msgid "home.description"
+msgstr "Comece aos 16 anos numa peneira e viva uma carreira inteira: jogue os seus lances em 3D em cada partida, evolua os seus atributos e tome as decisões fora de campo também: contratos, técnico, família e fama."
+
+#. js-lingui-explicit-id
+#: src/app/[lang]/layout.tsx
+msgid "home.metaDescription"
+msgstr "Um jogo de carreira no futebol: da peneira aos 16 anos até a aposentadoria, com os seus lances jogados em 3D em cada partida."
+
+#. js-lingui-explicit-id
+#: src/app/[lang]/home-content.tsx
+msgid "home.screenshotAlt"
+msgstr "Uma partida no jogo: o lance em 3D, com o placar no alto e a torcida ao fundo"
+
+#. js-lingui-explicit-id
+#: src/app/[lang]/home-content.tsx
+msgid "home.title"
+msgstr "Sua carreira no futebol, da peneira à aposentadoria"
+
+#. js-lingui-explicit-id
+#: src/components/store-buttons.tsx
+msgid "storeButtons.appStoreCaption"
+msgstr "Baixar na"
+
+#. js-lingui-explicit-id
+#: src/components/store-buttons.tsx
+msgid "storeButtons.comingSoon"
+msgstr "Em breve na"
+
+#. js-lingui-explicit-id
+#: src/components/store-buttons.tsx
+msgid "storeButtons.playStoreCaption"
+msgstr "Disponível no"

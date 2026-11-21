@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-11-20 21:06-0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+
+#. js-lingui-explicit-id
+#: src/app/[lang]/layout.tsx
+#: src/components/site-header.tsx
+msgid "common.gameName"
+msgstr "Player Life"
+
+#. js-lingui-explicit-id
+#: src/app/[lang]/privacy/page.tsx
+#: src/components/site-footer.tsx
+msgid "footer.privacy"
+msgstr "Privacy policy"
+
+#. js-lingui-explicit-id
+#: src/app/[lang]/home-content.tsx
+msgid "home.description"
+msgstr "Start at 16 at a youth trial and live a whole career: play your moments in 3D in every match, grow your attributes, and make the calls off the pitch too: contracts, the coach, family and fame."
+
+#. js-lingui-explicit-id
+#: src/app/[lang]/layout.tsx
+msgid "home.metaDescription"
+msgstr "A football career game: from a youth trial at 16 to retirement, with your moments played in 3D in every match."
+
+#. js-lingui-explicit-id
+#: src/app/[lang]/home-content.tsx
+msgid "home.screenshotAlt"
+msgstr "A match in the game: the play in 3D, with the score at the top and the crowd behind"
+
+#. js-lingui-explicit-id
+#: src/app/[lang]/home-content.tsx
+msgid "home.title"
+msgstr "Your football career, from the trial to retirement"
+
+#. js-lingui-explicit-id
+#: src/components/store-buttons.tsx
+msgid "storeButtons.appStoreCaption"
+msgstr "Download on the"
+
+#. js-lingui-explicit-id
+#: src/components/store-buttons.tsx
+msgid "storeButtons.comingSoon"
+msgstr "Coming soon on"
+
+#. js-lingui-explicit-id
+#: src/components/store-buttons.tsx
+msgid "storeButtons.playStoreCaption"
+msgstr "Get it on"

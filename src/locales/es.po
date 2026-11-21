@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-11-20 21:06-0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: es\n"
+
+#. js-lingui-explicit-id
+#: src/app/[lang]/layout.tsx
+#: src/components/site-header.tsx
+msgid "common.gameName"
+msgstr "Vida de Jugador"
+
+#. js-lingui-explicit-id
+#: src/app/[lang]/privacy/page.tsx
+#: src/components/site-footer.tsx
+msgid "footer.privacy"
+msgstr "Política de privacidad"
+
+#. js-lingui-explicit-id
+#: src/app/[lang]/home-content.tsx
+msgid "home.description"
+msgstr "Empieza a los 16 años en una prueba y vive toda una carrera: juega tus jugadas en 3D en cada partido, mejora tus atributos y toma las decisiones fuera de la cancha también: contratos, el entrenador, la familia y la fama."
+
+#. js-lingui-explicit-id
+#: src/app/[lang]/layout.tsx
+msgid "home.metaDescription"
+msgstr "Un juego de carrera en el fútbol: de una prueba a los 16 años hasta el retiro, con tus jugadas en 3D en cada partido."
+
+#. js-lingui-explicit-id
+#: src/app/[lang]/home-content.tsx
+msgid "home.screenshotAlt"
+msgstr "Un partido en el juego: la jugada en 3D, con el marcador arriba y la afición al fondo"
+
+#. js-lingui-explicit-id
+#: src/app/[lang]/home-content.tsx
+msgid "home.title"
+msgstr "Tu carrera en el fútbol, de la prueba al retiro"
+
+#. js-lingui-explicit-id
+#: src/components/store-buttons.tsx
+msgid "storeButtons.appStoreCaption"
+msgstr "Descárgalo en la"
+
+#. js-lingui-explicit-id
+#: src/components/store-buttons.tsx
+msgid "storeButtons.comingSoon"
+msgstr "Muy pronto en"
+
+#. js-lingui-explicit-id
+#: src/components/store-buttons.tsx
+msgid "storeButtons.playStoreCaption"
+msgstr "Disponible en"

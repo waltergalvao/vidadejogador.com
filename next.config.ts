@@ -1,9 +1,16 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
   cacheComponents: true,
   partialPrefetching: true,
+  experimental: {
+    // Lingui's macros (`useLingui` from `@lingui/react/macro`, `msg`), as Babel does in the game.
+    swcPlugins: [["@lingui/swc-plugin", {}]],
+  },
+  images: {
+    // The images in public/images are already sized and compressed (webp).
+    unoptimized: true,
+  },
   turbopack: {
     rules: {
       "*.css": {
